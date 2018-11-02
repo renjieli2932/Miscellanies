@@ -1,0 +1,1297 @@
+<div class="tab-content-wrapper">
+          <div class="left-content">
+            <section>
+           	<div class="perf-bricklet">
+            <h2>Performance</h2>
+            <div class="sub-links">
+            <ul id="sector_industry_tabs">
+            <li class="selected"><a id="tab_sector" href="#tabDataSector" class="nohand">Sector</a></li>
+            <li class="last-item"><a id="tab_industry" href="#tabDataIndustry">Industry</a></li>
+            </ul>
+            <a name="modal" href="#chart-overlay" role="button"><img src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/chart-performance.png" alt="Compare Sector Performance" title="Compare Sector Performance"></a>
+            </div>
+
+           <div id="tabDataSector" class="si-tab-container" style="display: block;">
+	           <div id="sector_div_container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <table class="perf-list-tbl" summary="">
+            <colgroup>
+            <col class="col1">
+            <col class="col2">
+            <col class="col3">
+            <col class="col4">
+            </colgroup>
+            <tfoot>
+
+            <tr>
+                <th scope="col" class="first-col">
+                    S&amp;P 500 ® Index
+                </th>
+                <td><div class="change">
+
+
+
+
+					                    <span class="positive">+0.52%</span>
+
+
+
+
+
+
+
+                </div></td>
+                <td>
+
+
+
+			            --
+
+
+                </td>
+                <td class="last-col">
+
+
+
+
+					                    <span class="positive">+16.23%</span>
+
+
+
+
+
+
+
+                </td>
+            </tr>
+
+            </tfoot>
+            <thead>
+            <tr>
+                <th scope="col" class="align-left">Sector
+                <ul class="mininav">
+                <li class="selected"><a href="javascript:void(0);" class="expand-all">Expand All</a></li>
+                <li class="last-item"><a href="javascript:void(0);" class="collapse-all">Collapse All</a></li>
+                </ul>
+                </th>
+                <th scope="col">Last % Change
+                <span class="timestamp"><time>AS OF 01:33 PM ET 10/01/2018</time></span>
+                </th>
+                <th scope="col">Market Cap
+                <span class="timestamp"><time>09/28/2018</time></span>
+                </th>
+                <th scope="col" class="last-col">1-Year % Change
+                <span class="timestamp"><time>09/28/2018</time></span>
+                </th>
+             </tr>
+            </thead>
+            <tbody>
+
+				<tr svalue=".GSPL" class="toggle_head ">
+	                <th scope="row">
+	                <a id="50" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Communication Services details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=50">Communication Services</a><span id="img_50" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">5 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_50" lastchange="-0.16" class="change" style="background-color: rgb(57, 0, 0); padding-top: 20px; padding-bottom: 20px;">-0.16%</div></td>
+
+
+
+	                <td>
+
+
+				            $4.79T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Communication Services 1 year % change</span>
+
+
+
+
+
+					                    <span class="negative">-0.70%</span>
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPD" class="toggle_head ">
+	                <th scope="row">
+	                <a id="25" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Consumer Discretionary details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=25">Consumer Discretionary</a><span id="img_25" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">10 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_25" lastchange="0.43" class="change" style="background-color: rgb(2, 98, 2);">+0.43%</div></td>
+
+
+
+	                <td>
+
+
+				            $5.17T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Consumer Discretionary 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+31.19%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPS" class="toggle_head ">
+	                <th scope="row">
+	                <a id="30" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Consumer Staples details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=30">Consumer Staples</a><span id="img_30" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">6 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_30" lastchange="-0.07" class="change" style="background-color: rgb(32, 0, 0);">-0.07%</div></td>
+
+
+
+	                <td>
+
+
+				            $3.55T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Consumer Staples 1 year % change</span>
+
+
+
+
+
+					                    <span class="negative">-0.17%</span>
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPE" class="toggle_head ">
+	                <th scope="row">
+	                <a id="10" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Energy details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=10">Energy</a><span id="img_10" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">2 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_10" lastchange="1.47" class="change" style="background-color: rgb(5, 155, 5);">+1.47%</div></td>
+
+
+
+	                <td>
+
+
+				            $4.07T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Energy 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+10.81%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPF" class="toggle_head ">
+	                <th scope="row">
+	                <a id="40" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Financials details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=40">Financials</a><span id="img_40" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">7 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_40" lastchange="0.40" class="change" style="background-color: rgb(2, 94, 2);">+0.40%</div></td>
+
+
+
+	                <td>
+
+
+				            $7.40T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Financials 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+7.27%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPA" class="toggle_head ">
+	                <th scope="row">
+	                <a id="35" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Health Care details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=35">Health Care</a><span id="img_35" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">6 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_35" lastchange="0.65" class="change" style="background-color: rgb(3, 124, 3);">+0.65%</div></td>
+
+
+
+	                <td>
+
+
+				            $5.84T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Health Care 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+17.22%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPI" class="toggle_head ">
+	                <th scope="row">
+	                <a id="20" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Industrials details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=20">Industrials</a><span id="img_20" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">14 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_20" lastchange="1.15" class="change" style="background-color: rgb(4, 146, 4);">+1.15%</div></td>
+
+
+
+	                <td>
+
+
+				            $4.29T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Industrials 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+9.26%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPT" class="toggle_head ">
+	                <th scope="row">
+	                <a id="45" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Information Technology details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=45">Information Technology</a><span id="img_45" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">6 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_45" lastchange="0.76" class="change" style="background-color: rgb(4, 134, 4);">+0.76%</div></td>
+
+
+
+	                <td>
+
+
+				            $7.69T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Information Technology 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+31.01%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPM" class="toggle_head ">
+	                <th scope="row">
+	                <a id="15" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Materials details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=15">Materials</a><span id="img_15" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">5 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_15" lastchange="1.25" class="change" style="background-color: rgb(5, 149, 5);">+1.25%</div></td>
+
+
+
+	                <td>
+
+
+				            $1.96T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Materials 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+2.67%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPRE" class="toggle_head ">
+	                <th scope="row">
+	                <a id="60" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Real Estate details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=60">Real Estate</a><span id="img_60" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">2 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_60" lastchange="-0.40" class="change" style="background-color: rgb(99, 0, 0);">-0.40%</div></td>
+
+
+
+	                <td>
+
+
+				            $1.19T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Real Estate 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+2.03%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPU" class="toggle_head ">
+	                <th scope="row">
+	                <a id="55" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Utilities details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=55">Utilities</a><span id="img_55" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">5 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_55" lastchange="-0.42" class="change" style="background-color: rgb(102, 0, 0);">-0.42%</div></td>
+
+
+
+	                <td>
+
+
+				            $1.22T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Utilities 1 year % change</span>
+
+
+
+
+
+					                    <span class="negative">-0.44%</span>
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+            </tbody>
+            </table></div>
+			</div>
+           <div id="tabDataIndustry" class="si-tab-container" style="display:none">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <table id="tableSort" class="perf-list-tbl ind" summary="">
+ <colgroup>
+ <col class="col1">
+ <col class="col2">
+ <col class="col3">
+ <col class="col4">
+ </colgroup>
+ <thead>
+ <tr>
+     <th scope="col" class="align-left"><a href="javascript:void(0);">Industry<img id="img_up_0" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_up.png" style="display:none" width="9" height="5" alt="Sorted in ascending order. Click to reverse." title="Sorted in ascending order. Click to reverse." class="arrow-img"><img id="img_down_0" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_down.png" style="display:none" width="9" height="5" alt="Sorted in descending order. Click to reverse." title="Sorted in descending order. Click to reverse." class="arrow-img"></a></th>
+     <th scope="col"><a id="a_name" href="javascript:void(0);">Last % Change<img id="img_up_1" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_up.png" style="display:''" width="9" height="5" alt="Sorted in ascending order. Click to reverse." title="Sorted in ascending order. Click to reverse." class="arrow-img"><img id="img_down_1" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_down.png" style="display:none" width="9" height="5" alt="Sorted in descending order. Click to reverse." title="Sorted in descending order. Click to reverse." class="arrow-img"></a>
+     <span class="timestamp"><time></time></span>
+     </th>
+     <th scope="col"><a href="javascript:void(0);">Market Cap<img id="img_up_2" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_up.png" style="display:none" width="9" height="5" alt="Sorted in ascending order. Click to reverse." title="Sorted in ascending order. Click to reverse." class="arrow-img"><img id="img_down_2" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_down.png" style="display:none" width="9" height="5" alt="Sorted in descending order. Click to reverse." title="Sorted in descending order. Click to reverse." class="arrow-img"></a>
+     <span class="timestamp"><time></time></span>
+     </th>
+     <th scope="col" class="last-col"><a href="javascript:void(0);">1-Year % Change<img id="img_up_3" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_up.png" style="display:none" width="9" height="5" alt="Sorted in ascending order. Click to reverse." title="Sorted in ascending order. Click to reverse." class="arrow-img"><img id="img_down_3" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_down.png" style="display:none" width="9" height="5" alt="Sorted in descending order. Click to reverse." title="Sorted in descending order. Click to reverse." class="arrow-img"></a>
+     <span class="timestamp"><time></time></span>
+     </th>
+ </tr>
+ </thead>
+ <tbody>
+
+  </tbody>
+  <tfoot id="tfoot_data">
+
+  </tfoot>
+ </table>
+ <script type="text/javascript">
+ (function() {
+	$("#tfoot_data td").each(function() {
+		$(this).css("font-weight","normal").css("font-size","93%");
+	});
+	$("#tfoot_data th").each(function() {
+		$(this).css("font-weight","normal").css("font-size","93%");
+	});
+ })();
+ </script>
+           </div>
+           <a id="sioverlay_id" href="javascript:void(0);" class="cal-link" modalid="#performance_cap_calculated_overlay">How are performance and market cap calculated?</a>
+
+            </div>
+            <script type="text/javascript">
+            $('#sector_industry_tabs li a').click(function(){
+        		if ($(this).parent('li').attr("class").indexOf('selected') != -1) {
+        			return false;
+        		}
+        		$(this).addClass('nohand');
+        		var	idName = $(this).attr('href');
+        		$('.si-tab-container').hide();
+        		$('#sector_industry_tabs li').removeClass('selected');
+        		$(this).parent('li').addClass('selected');
+        		$(idName).show();
+        		if(idName == "#tabDataIndustry")
+        		{
+        			sectorTabFlag = 0;
+        			$('#tab_sector').removeClass('nohand');
+        			$(this).parents().next('a').children('img').attr('alt','Compare Industry Performance');
+        			$(this).parents().next('a').children('img').attr('title','Compare Industry Performance');
+        			setIndustriesData();
+
+        		}
+        		else
+        		{
+        			sectorTabFlag = 1;
+        			$('#tab_industry').removeClass('nohand');
+        			$(this).parents().next('a').children('img').attr('alt','Compare Sector Performance');
+        			$(this).parents().next('a').children('img').attr('title','Compare Sector Performance');
+        			performanceSectorPage.getPerformanceSectorHtml("","");
+        		}
+
+
+
+        		return false;
+        	});
+
+
+
+
+	    	    	$('#tab_sector').click();
+
+
+
+			(function(){
+				$('#tab_sector').bind('click', function() {
+					//trackContentChangeAsPV('Tab','Snapshot - Sector');
+				});
+				$('#tab_industry').bind('click', function() {
+					//trackContentChangeAsPV('Tab','Snapshot - Industry');
+				});
+			})();
+
+            </script>
+            </section>
+            <section>
+            <div class="news-reports-wrapper extra-spacing">
+
+
+            <div id="sectorNews_div" class="nr-blk nr-left">
+	            <h2>Sector News</h2>
+
+
+
+
+
+
+								<ul>
+
+										<li>
+											<a href="/eresearch/markets_sectors/news/story.jhtml?storyid=201810011107DOWJONESDJONLINE000191&amp;provider=DOWJONES&amp;product=DJONLINE&amp;category=sectorNews&amp;sourcePage=article&amp;gic= ">U.S. Factory-Sector Growth Pulled Back in September -- Update</a>
+											<ul class="info-list">
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?source=ON&amp;topic=all&amp;pubdate=90">DJ Business News</a></li>
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?topic=sectorNews">SECTORS</a></li>
+												<li class="timestamp">
+
+
+
+
+11:07 上午 ET 10/01/2018</li>
+											</ul>
+										</li>
+
+										<li>
+											<a href="/eresearch/markets_sectors/news/story.jhtml?storyid=201810011035DOWJONESDJONLINE000176&amp;provider=DOWJONES&amp;product=DJONLINE&amp;category=sectorNews&amp;sourcePage=article&amp;gic= ">U.S. Factory-Sector Growth Pulled Back in September</a>
+											<ul class="info-list">
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?source=ON&amp;topic=all&amp;pubdate=90">DJ Business News</a></li>
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?topic=sectorNews">SECTORS</a></li>
+												<li class="timestamp">
+
+
+
+
+10:35 上午 ET 10/01/2018</li>
+											</ul>
+										</li>
+
+										<li>
+											<a href="/eresearch/markets_sectors/news/story.jhtml?storyid=201810011033RTRSNEWSCOMBINED_L2N1WE1GT_1&amp;provider=RTRSNEWS&amp;product=COMBINED&amp;category=sectorNews&amp;sourcePage=article&amp;gic= ">U.S. factory activity slows; construction spending edges up</a>
+											<ul class="info-list">
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?source=RA&amp;topic=all&amp;pubdate=90">Reuters</a></li>
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?topic=sectorNews">SECTORS</a></li>
+												<li class="timestamp">
+
+
+
+
+10:33 上午 ET 10/01/2018</li>
+											</ul>
+										</li>
+
+								</ul>
+								<ul class="more-link">
+
+										<li class="arrow"><a href="/eresearch/gotoBL/markets_sectors/sectors/sectors_in_market.jhtml" target="_top"> Log in for additional news sources.</a></li>
+
+									<li class="remove-spacing">
+										<a href="/eresearch/markets_sectors/news/news.jhtml?topic=sectorNews&amp;pubdate=90&amp;source=all">View more sector news.</a>
+									</li>
+								</ul>
+
+
+
+
+            </div>
+
+           <div id="researchReports_div" class="nr-blk nr-right">
+	            <h2>Research Reports</h2>
+
+
+
+			            <ul>
+
+				            <li>
+
+
+				            			<a href="javascript:void(0);" onclick="window.open('http://research2.fidelity.com/fidelity/research/reports/pdf/getreport.asp?feedid=5029&amp;doctag=secthigh50_20181001&amp;versiontag=7qu312e6vtbh7khhn80j46tlnk');">Telecom Services Sector Highlights (PDF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span><img style="padding-left:6px;" width="8" height="10" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/lock.gif" complete="complete" alt="Log in required." title="Log in required."></span>
+
+
+ </a>
+
+
+
+
+					                <ul class="info-list">
+					                    <li><a href="https://research2.fidelity.com/fidelity/markets_sectors/search.asp#market=MarketsAll&amp;marketChecked=false&amp;sectorChecked=true&amp;sector=SectorEverything&amp;industry=IndustryAll&amp;industryChecked=true&amp;economic=Economic&amp;economicChecked=false&amp;firm=NedDavis&amp;timeframe=365&amp;searchType=Domestic">Ned Davis Research, Inc.</a></li>
+					                    <li class="timestamp">06:00 AM ET 10/01/2018</li>
+					                </ul>
+				            	</li>
+
+				            <li>
+
+
+				            			<a href="javascript:void(0);" onclick="window.open('http://research2.fidelity.com/fidelity/research/reports/pdf/getreport.asp?feedid=576&amp;doctag=20180928t0&amp;versiontag=1gmft8njjvhlmkbs3p4mlrlv0e');">Zacks Industry Outlook (PDF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span><img style="padding-left:6px;" width="8" height="10" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/lock.gif" complete="complete" alt="Log in required." title="Log in required."></span>
+
+
+ </a>
+
+
+
+
+					                <ul class="info-list">
+					                    <li><a href="https://research2.fidelity.com/fidelity/markets_sectors/search.asp#market=MarketsAll&amp;marketChecked=false&amp;sectorChecked=true&amp;sector=SectorEverything&amp;industry=IndustryAll&amp;industryChecked=true&amp;economic=Economic&amp;economicChecked=false&amp;firm=Zacks&amp;timeframe=365&amp;searchType=Domestic">Zacks Investment Research</a></li>
+					                    <li class="timestamp">09:00 AM ET 09/28/2018</li>
+					                </ul>
+				            	</li>
+
+			            </ul>
+			            <ul class="more-link">
+				            <li>
+				                <a href="https://research2.fidelity.com/fidelity/markets_sectors/search.asp#sectorChecked=true&amp;sector=SectorEverything&amp;firm=All Firms&amp;timeframe=365&amp;searchType=Domestic">View more research reports.</a>
+				            </li>
+			            </ul>
+
+
+            </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="economicNews_div" class="news-reports-wrapper  border-none">
+    <h2>U.S. Economic News &amp; Analysis<span>Provided by <img src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/econoday_logo.gif" alt="U.S. Economic News &amp; Analysis" title="U.S. Economic News &amp; Analysis" style="vertical-align: -2px;"></span></h2>
+    <div class="nr-blk nr-left">
+        <ul>
+
+	            <li><a href="javascript:openWinUSEconomicCal('https://fidelity-fcm.econoday.com/byshoweventfull.asp?fid=497149&amp;cust=fidelity');">Market Focus</a><span class="date"><time>10/01/2018</time></span>
+	                <p>Read a quick summary of the day's important economic events.</p></li>
+
+
+	            <li><a href="javascript:openWinUSEconomicCal('https://fidelity-fcm.econoday.com/byshoweventfull.asp?fid=497150&amp;cust=fidelity');">Market Reflections</a><span class="date"><time>09/28/2018</time></span>
+	                <p>Get a sense of what happened in the market today and what it means.</p></li>
+
+
+	            <li class="remove-spacing"><a href="javascript:openWinUSEconomicCal('https://fidelity-fcm.econoday.com/byshoweventarticle.asp?fid=497151&amp;cust=fidelityFIplus');">Simply Economics</a><span class="date"><time>10/01/2018</time></span>
+	                <p>Review last week's market activity and get a preview of the week ahead.</p></li>
+
+        </ul>
+    </div>
+    <div class="nr-blk nr-right">
+        <ul class="bullet-list">
+
+
+
+                    <li><a href="javascript:openWinUSEconomicCal('https://fidelity-fcm.econoday.com/byweek.asp?cust=fidelity');">U.S.
+                            Economic Events Calendar</a><span class="number">(9)</span></li>
+
+
+            <li><a href="javascript:openWinUSEconomicCal('https://fidelityfiplus.econoday.com/byresource.aspx?cust=fidelityFIplus&amp;year=2018&amp;grp=4&amp;rcrid=1119');">Country Profiles</a></li>
+	        <li>Tour sections of the economy in the <a href="javascript:openWinUSEconomicCal('/eresearch/gotoBL/markets_sectors/byresource.jhtml');">Chart Room</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span><img style="padding-left:6px;" width="8" height="10" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/lock.gif" complete="complete" alt="Log in required." title="Log in required."></span>
+
+
+ </li>
+        </ul>
+
+	        <ul class="arrow-link">
+	            <li><a href="/eresearch/gotoBL/markets_sectors/sectors/sectors_in_market.jhtml" target="_top">Log in for premium content and historical events</a>
+	            </li>
+	        </ul>
+
+    </div>
+</div>
+
+
+
+            </section>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="right-rail">
+
+
+	<aside>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="bricklet-k">
+	<a href="javascript:void(0);" onclick="window.open('https://www.fidelity.com/learning-center/platforms-tools/researching-markets-sectors-industries-video');"><strong>Take a guided tour of Fidelity's sector and industry research.</strong> <img src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/video2.png" alt="Video opens in new window. (52 min: 36 sec)" title="Video opens in new window. (52 min: 36 sec)"></a>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+	</aside>
+
+
+	<aside>
+
+
+
+
+
+
+
+
+
+				<div id="understandingSector_div" class="bricklet-d">
+					<h2>Understanding Sectors</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					 <p><a target="_blank" href="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/business_cycle/Business_Cycle_Sector_Approach.pdf"><strong>The Business Cycle Approach to Sector Investing (PDF)</strong></a> provides details on how you can potentially take advantage of opportunities that arise due to the relative performance of sectors in each phase. <span>FIDELITY INVESTMENTS</span></p>
+ <p class="twentypx-spcng">Learn more about sector investing in the <a href="https://www.fidelity.com/learning-center/sectors/overview"><strong>Fidelity Learning Center</strong></a>.</p>
+
+
+				</div>
+
+
+
+
+
+
+	</aside>
+
+
+	<aside>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="fidelityInsight_div" class="bricklet-h">
+   <h2>Fidelity Insights</h2>
+
+
+
+		<ul>
+
+	        <li>
+
+
+	            		<a href="javascript:void(0)" onclick="javascript:window.open('http://research2.fidelity.com/fidelity/research/reports/public/getreport.asp?feedid=2271&amp;doctag=q32018quarterlysectorupdate_59_20180719&amp;versiontag=2018071907163409');"><strong>Q3 2018 Quarterly Sector Update (PDF)</strong></a>
+
+
+
+	            <span class="timestamp" style="text-transform:capitalize;"></span>
+	        </li>
+
+	        <li>
+
+
+	            		<a href="javascript:void(0)" onclick="javascript:window.open('http://research2.fidelity.com/fidelity/research/reports/public/getreport.asp?feedid=2271&amp;doctag=q32018quarterlymarketupdate_20_20180711&amp;versiontag=2018071107242350');"><strong>Q3 2018 Quarterly Market Update (PDF)</strong></a>
+
+
+
+	            <span class="timestamp" style="text-transform:capitalize;"></span>
+	        </li>
+
+	   </ul>
+
+
+
+
+               <a href="https://research2.fidelity.com/fidelity/markets_sectors/search.asp#market=MarketsAll&amp;marketChecked=false&amp;sectorChecked=true&amp;sector=SectorEverything&amp;industry=IndustryAll&amp;industryChecked=true&amp;economic=Economic&amp;economicChecked=false&amp;firm=Fidelity Investments&amp;timeframe=365&amp;searchType=Domestic" class="more-link">View more Fidelity Insights.</a>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+	</aside>
+
+</div>
+
+</div>

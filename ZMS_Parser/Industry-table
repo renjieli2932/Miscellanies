@@ -1,0 +1,6331 @@
+<div class="tab-content-wrapper">
+          <div class="left-content">
+            <section>
+           	<div class="perf-bricklet">
+            <h2>Performance</h2>
+            <div class="sub-links">
+            <ul id="sector_industry_tabs">
+            <li class=""><a id="tab_sector" href="#tabDataSector" class="">Sector</a></li>
+            <li class="last-item selected"><a id="tab_industry" href="#tabDataIndustry" class="nohand">Industry</a></li>
+            </ul>
+            <a name="modal" href="#chart-overlay" role="button"><img src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/chart-performance.png" alt="Compare Industry Performance" title="Compare Industry Performance"></a>
+            </div>
+
+           <div id="tabDataSector" class="si-tab-container" style="display: none;">
+	           <div id="sector_div_container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <table class="perf-list-tbl" summary="">
+            <colgroup>
+            <col class="col1">
+            <col class="col2">
+            <col class="col3">
+            <col class="col4">
+            </colgroup>
+            <tfoot>
+
+            <tr>
+                <th scope="col" class="first-col">
+                    S&amp;P 500 ® Index
+                </th>
+                <td><div class="change">
+
+
+
+
+					                    <span class="positive">+0.52%</span>
+
+
+
+
+
+
+
+                </div></td>
+                <td>
+
+
+
+			            --
+
+
+                </td>
+                <td class="last-col">
+
+
+
+
+					                    <span class="positive">+16.23%</span>
+
+
+
+
+
+
+
+                </td>
+            </tr>
+
+            </tfoot>
+            <thead>
+            <tr>
+                <th scope="col" class="align-left">Sector
+                <ul class="mininav">
+                <li class="selected"><a href="javascript:void(0);" class="expand-all">Expand All</a></li>
+                <li class="last-item"><a href="javascript:void(0);" class="collapse-all">Collapse All</a></li>
+                </ul>
+                </th>
+                <th scope="col">Last % Change
+                <span class="timestamp"><time>AS OF 01:33 PM ET 10/01/2018</time></span>
+                </th>
+                <th scope="col">Market Cap
+                <span class="timestamp"><time>09/28/2018</time></span>
+                </th>
+                <th scope="col" class="last-col">1-Year % Change
+                <span class="timestamp"><time>09/28/2018</time></span>
+                </th>
+             </tr>
+            </thead>
+            <tbody>
+
+				<tr svalue=".GSPL" class="toggle_head ">
+	                <th scope="row">
+	                <a id="50" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Communication Services details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=50">Communication Services</a><span id="img_50" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">5 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_50" lastchange="-0.16" class="change" style="background-color: rgb(57, 0, 0); padding-top: 20px; padding-bottom: 20px;">-0.16%</div></td>
+
+
+
+	                <td>
+
+
+				            $4.79T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Communication Services 1 year % change</span>
+
+
+
+
+
+					                    <span class="negative">-0.70%</span>
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPD" class="toggle_head ">
+	                <th scope="row">
+	                <a id="25" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Consumer Discretionary details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=25">Consumer Discretionary</a><span id="img_25" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">10 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_25" lastchange="0.43" class="change" style="background-color: rgb(2, 98, 2);">+0.43%</div></td>
+
+
+
+	                <td>
+
+
+				            $5.17T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Consumer Discretionary 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+31.19%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPS" class="toggle_head ">
+	                <th scope="row">
+	                <a id="30" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Consumer Staples details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=30">Consumer Staples</a><span id="img_30" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">6 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_30" lastchange="-0.07" class="change" style="background-color: rgb(32, 0, 0);">-0.07%</div></td>
+
+
+
+	                <td>
+
+
+				            $3.55T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Consumer Staples 1 year % change</span>
+
+
+
+
+
+					                    <span class="negative">-0.17%</span>
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPE" class="toggle_head ">
+	                <th scope="row">
+	                <a id="10" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Energy details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=10">Energy</a><span id="img_10" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">2 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_10" lastchange="1.47" class="change" style="background-color: rgb(5, 155, 5);">+1.47%</div></td>
+
+
+
+	                <td>
+
+
+				            $4.07T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Energy 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+10.81%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPF" class="toggle_head ">
+	                <th scope="row">
+	                <a id="40" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Financials details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=40">Financials</a><span id="img_40" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">7 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_40" lastchange="0.40" class="change" style="background-color: rgb(2, 94, 2);">+0.40%</div></td>
+
+
+
+	                <td>
+
+
+				            $7.40T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Financials 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+7.27%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPA" class="toggle_head ">
+	                <th scope="row">
+	                <a id="35" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Health Care details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=35">Health Care</a><span id="img_35" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">6 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_35" lastchange="0.65" class="change" style="background-color: rgb(3, 124, 3);">+0.65%</div></td>
+
+
+
+	                <td>
+
+
+				            $5.84T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Health Care 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+17.22%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPI" class="toggle_head ">
+	                <th scope="row">
+	                <a id="20" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Industrials details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=20">Industrials</a><span id="img_20" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">14 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_20" lastchange="1.15" class="change" style="background-color: rgb(4, 146, 4);">+1.15%</div></td>
+
+
+
+	                <td>
+
+
+				            $4.29T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Industrials 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+9.26%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPT" class="toggle_head ">
+	                <th scope="row">
+	                <a id="45" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Information Technology details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=45">Information Technology</a><span id="img_45" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">6 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_45" lastchange="0.76" class="change" style="background-color: rgb(4, 134, 4);">+0.76%</div></td>
+
+
+
+	                <td>
+
+
+				            $7.69T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Information Technology 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+31.01%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPM" class="toggle_head ">
+	                <th scope="row">
+	                <a id="15" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Materials details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=15">Materials</a><span id="img_15" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">5 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_15" lastchange="1.25" class="change" style="background-color: rgb(5, 149, 5);">+1.25%</div></td>
+
+
+
+	                <td>
+
+
+				            $1.96T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Materials 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+2.67%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPRE" class="toggle_head ">
+	                <th scope="row">
+	                <a id="60" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Real Estate details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=60">Real Estate</a><span id="img_60" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">2 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_60" lastchange="-0.40" class="change" style="background-color: rgb(99, 0, 0);">-0.40%</div></td>
+
+
+
+	                <td>
+
+
+				            $1.19T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Real Estate 1 year % change</span>
+
+
+
+
+					                    <span class="positive">+2.03%</span>
+
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+				<tr svalue=".GSPU" class="toggle_head ">
+	                <th scope="row">
+	                <a id="55" class="toggle" href="javascript:void(0);"><span class="off-screen">Show Utilities details</span></a>
+	                    <div class="sector-heading"><a href="/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&amp;sector=55">Utilities</a><span id="img_55" style="display:none"><img style="padding-left:2px;" width="12" height="12" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/retailLoader_sm.gif"></span></div>
+	                    <span class="byline">5 Industries</span>
+	                </th>
+
+
+				            <td><div id="div_55" lastchange="-0.42" class="change" style="background-color: rgb(102, 0, 0);">-0.42%</div></td>
+
+
+
+	                <td>
+
+
+				            $1.22T
+
+
+
+	                </td>
+	                <td class="last-col">
+	                    <span class="off-screen">Utilities 1 year % change</span>
+
+
+
+
+
+					                    <span class="negative">-0.44%</span>
+
+
+
+
+
+
+	                </td>
+	            </tr>
+
+
+            </tbody>
+            </table></div>
+			</div>
+           <div id="tabDataIndustry" class="si-tab-container" style="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <table id="tableSort" class="perf-list-tbl ind" summary="">
+ <colgroup>
+ <col class="col1">
+ <col class="col2">
+ <col class="col3">
+ <col class="col4">
+ </colgroup>
+ <thead>
+ <tr>
+     <th scope="col" class="align-left"><a href="javascript:void(0);">Industry<img id="img_up_0" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_up.png" style="display:none" width="9" height="5" alt="Sorted in ascending order. Click to reverse." title="Sorted in ascending order. Click to reverse." class="arrow-img"><img id="img_down_0" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_down.png" style="display:none" width="9" height="5" alt="Sorted in descending order. Click to reverse." title="Sorted in descending order. Click to reverse." class="arrow-img"></a></th>
+     <th scope="col"><a id="a_name" href="javascript:void(0);">Last % Change<img id="img_up_1" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_up.png" style="display: none;" width="9" height="5" alt="Sorted in ascending order. Click to reverse." title="Sorted in ascending order. Click to reverse." class="arrow-img"><img id="img_down_1" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_down.png" style="" width="9" height="5" alt="Sorted in descending order. Click to reverse." title="Sorted in descending order. Click to reverse." class="arrow-img"></a>
+     <span class="timestamp"><time>AS OF 01:33 PM ET 10/01/2018</time></span>
+     </th>
+     <th scope="col"><a href="javascript:void(0);">Market Cap<img id="img_up_2" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_up.png" style="display:none" width="9" height="5" alt="Sorted in ascending order. Click to reverse." title="Sorted in ascending order. Click to reverse." class="arrow-img"><img id="img_down_2" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_down.png" style="display:none" width="9" height="5" alt="Sorted in descending order. Click to reverse." title="Sorted in descending order. Click to reverse." class="arrow-img"></a>
+     <span class="timestamp"><time>09/28/2018</time></span>
+     </th>
+     <th scope="col" class="last-col"><a href="javascript:void(0);">1-Year % Change<img id="img_up_3" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_up.png" style="display:none" width="9" height="5" alt="Sorted in ascending order. Click to reverse." title="Sorted in ascending order. Click to reverse." class="arrow-img"><img id="img_down_3" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/arrow_down.png" style="display:none" width="9" height="5" alt="Sorted in descending order. Click to reverse." title="Sorted in descending order. Click to reverse." class="arrow-img"></a>
+     <span class="timestamp"><time>09/28/2018</time></span>
+     </th>
+ </tr>
+ </thead>
+ <tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <tr svalue=".GSPICON">
+     <th scope="row" cvalue="Industrial Conglomerates"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=201050">Industrial Conglomerates</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="3.17"><span class="positive-value">+3.17%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="584.96">
+
+			$584.96B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-18.60"><span class="negative-value">-18.60%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPDCS">
+     <th scope="row" cvalue="Diversified Consumer Services"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=253020">Diversified Consumer Services</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="1.76"><span class="positive-value">+1.76%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="100.84">
+
+			$100.84B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-3.51"><span class="negative-value">-3.51%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPRAR">
+     <th scope="row" cvalue="Road &amp; Rail"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=203040">Road &amp; Rail</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="1.55"><span class="positive-value">+1.55%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="455.94">
+
+			$455.94B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="35.00"><span class="positive-value">+35.00%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPOIG">
+     <th scope="row" cvalue="Oil, Gas &amp; Consumable Fuels"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=101020">Oil, Gas &amp; Consumable Fuels</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="1.46"><span class="positive-value">+1.46%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="3750.0">
+
+			$3.75T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="13.53"><span class="positive-value">+13.53%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".CEX">
+     <th scope="row" cvalue="Chemicals"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=151010">Chemicals</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="1.44"><span class="positive-value">+1.44%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="869.38">
+
+			$869.38B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="5.36"><span class="positive-value">+5.36%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPLEP">
+     <th scope="row" cvalue="Leisure Products"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=252020">Leisure Products</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="1.41"><span class="positive-value">+1.41%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="51.43">
+
+			$51.43B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="7.08"><span class="positive-value">+7.08%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPENS">
+     <th scope="row" cvalue="Energy Equipment &amp; Services"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=101010">Energy Equipment &amp; Services</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="1.38"><span class="positive-value">+1.38%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="315.72">
+
+			$315.72B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-6.07"><span class="negative-value">-6.07%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPAUTO">
+     <th scope="row" cvalue="Automobiles"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=251020">Automobiles</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="1.28"><span class="positive-value">+1.28%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="617.53">
+
+			$617.53B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-18.81"><span class="negative-value">-18.81%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPCOM">
+     <th scope="row" cvalue="Construction Materials"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=151020">Construction Materials</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="1.28"><span class="positive-value">+1.28%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="81.61">
+
+			$81.61B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-8.11"><span class="negative-value">-8.11%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPELQ">
+     <th scope="row" cvalue="Electrical Equipment"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=201040">Electrical Equipment</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="1.17"><span class="positive-value">+1.17%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="282.67">
+
+			$282.67B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="12.84"><span class="positive-value">+12.84%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPLSCI">
+     <th scope="row" cvalue="Life Sciences Tools &amp; Services"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=352030">Life Sciences Tools &amp; Services</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="1.13"><span class="positive-value">+1.13%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="319.04">
+
+			$319.04B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="32.92"><span class="positive-value">+32.92%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPAED">
+     <th scope="row" cvalue="Aerospace &amp; Defense"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=201010">Aerospace &amp; Defense</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="1.07"><span class="positive-value">+1.07%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="853.36">
+
+			$853.36B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="21.14"><span class="positive-value">+21.14%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPCFI">
+     <th scope="row" cvalue="Consumer Finance"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=402020">Consumer Finance</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.99"><span class="positive-value">+0.99%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="255.39">
+
+			$255.39B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="14.16"><span class="positive-value">+14.16%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPHCPS">
+     <th scope="row" cvalue="Health Care Providers &amp; Services"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=351020">Health Care Providers &amp; Services</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.93"><span class="positive-value">+0.93%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="979.78">
+
+			$979.78B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="30.08"><span class="positive-value">+30.08%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPSEQP">
+     <th scope="row" cvalue="Semiconductors &amp; Semiconductor Equipment"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=453010">Semiconductors &amp; Semiconductor Equipment</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.89"><span class="positive-value">+0.89%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="1510.0">
+
+			$1.51T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="21.68"><span class="positive-value">+21.68%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPAUC">
+     <th scope="row" cvalue="Auto Components"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=251010">Auto Components</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.86"><span class="positive-value">+0.86%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="166.09">
+
+			$166.09B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-8.06"><span class="negative-value">-8.06%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPCOPE">
+     <th scope="row" cvalue="Technology Hardware, Storage &amp; Peripherals"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=452020">Technology Hardware, Storage &amp; Peripherals</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.86"><span class="positive-value">+0.86%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="1310.0">
+
+			$1.31T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="42.37"><span class="positive-value">+42.37%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPCMK">
+     <th scope="row" cvalue="Capital Markets"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=402030">Capital Markets</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.84"><span class="positive-value">+0.84%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="1220.0">
+
+			$1.22T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="5.03"><span class="positive-value">+5.03%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPSOFW">
+     <th scope="row" cvalue="Software"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=451030">Software</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.84"><span class="positive-value">+0.84%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="2360.0">
+
+			$2.36T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="44.94"><span class="positive-value">+44.94%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPHCEQ">
+     <th scope="row" cvalue="Health Care Equipment &amp; Supplies"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=351010">Health Care Equipment &amp; Supplies</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.70"><span class="positive-value">+0.70%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="1070.0">
+
+			$1.07T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="34.04"><span class="positive-value">+34.04%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPREMDI">
+     <th scope="row" cvalue="Real Estate Management &amp; Development"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=601020">Real Estate Management &amp; Development</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.70"><span class="positive-value">+0.70%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="83.09">
+
+			$83.09B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="16.36"><span class="positive-value">+16.36%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPCSE">
+     <th scope="row" cvalue="Construction &amp; Engineering"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=201030">Construction &amp; Engineering</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.66"><span class="positive-value">+0.66%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="80.21">
+
+			$80.21B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="20.42"><span class="positive-value">+20.42%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPMULR">
+     <th scope="row" cvalue="Multiline Retail"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=255030">Multiline Retail</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.66"><span class="positive-value">+0.66%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="158.07">
+
+			$158.07B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="34.92"><span class="positive-value">+34.92%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPPPE">
+     <th scope="row" cvalue="Independent Power and Renewable Electricity Producers"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=551050">Independent Power and Renewable Electricity Producers</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.62"><span class="positive-value">+0.62%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="83.73">
+
+			$83.73B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="38.10"><span class="positive-value">+38.10%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPMAC">
+     <th scope="row" cvalue="Machinery"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=201060">Machinery</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.59"><span class="positive-value">+0.59%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="786.24">
+
+			$786.24B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="10.28"><span class="positive-value">+10.28%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPCOP">
+     <th scope="row" cvalue="Containers &amp; Packaging"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=151030">Containers &amp; Packaging</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.57"><span class="positive-value">+0.57%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="148.60">
+
+			$148.60B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-3.72"><span class="negative-value">-3.72%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPITCS">
+     <th scope="row" cvalue="IT Services"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=451020">IT Services</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.56"><span class="positive-value">+0.56%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="1730.0">
+
+			$1.73T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="32.41"><span class="positive-value">+32.41%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPMTM">
+     <th scope="row" cvalue="Metals &amp; Mining"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=151040">Metals &amp; Mining</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.54"><span class="positive-value">+0.54%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="771.95">
+
+			$771.95B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-2.44"><span class="negative-value">-2.44%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPCARG">
+     <th scope="row" cvalue="Pharmaceuticals"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=352020">Pharmaceuticals</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.54"><span class="positive-value">+0.54%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="2300.0">
+
+			$2.30T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="10.61"><span class="positive-value">+10.61%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPAC">
+     <th scope="row" cvalue="Air Freight &amp; Logistics"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=203010">Air Freight &amp; Logistics</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.46"><span class="positive-value">+0.46%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="227.82">
+
+			$227.82B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="6.04"><span class="positive-value">+6.04%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPBUI">
+     <th scope="row" cvalue="Building Products"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=201020">Building Products</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.43"><span class="positive-value">+0.43%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="126.70">
+
+			$126.70B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-10.59"><span class="negative-value">-10.59%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPDIFN">
+     <th scope="row" cvalue="Diversified Financial Services"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=402010">Diversified Financial Services</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.33"><span class="positive-value">+0.33%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="601.01">
+
+			$601.01B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="16.20"><span class="positive-value">+16.20%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPSPR">
+     <th scope="row" cvalue="Specialty Retail"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=255040">Specialty Retail</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.33"><span class="positive-value">+0.33%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="731.03">
+
+			$731.03B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="34.63"><span class="positive-value">+34.63%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPHHD">
+     <th scope="row" cvalue="Household Durables"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=252010">Household Durables</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.31"><span class="positive-value">+0.31%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="274.94">
+
+			$274.94B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-19.48"><span class="negative-value">-19.48%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPCOEQ">
+     <th scope="row" cvalue="Communications Equipment"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=452010">Communications Equipment</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.28"><span class="positive-value">+0.28%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="439.41">
+
+			$439.41B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="43.12"><span class="positive-value">+43.12%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPBKS">
+     <th scope="row" cvalue="Banks"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=401010">Banks</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.27"><span class="positive-value">+0.27%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="3810.0">
+
+			$3.81T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="8.09"><span class="positive-value">+8.09%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPBIOT">
+     <th scope="row" cvalue="Biotechnology"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=352010">Biotechnology</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.26"><span class="positive-value">+0.26%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="1090.0">
+
+			$1.09T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-1.30"><span class="negative-value">-1.30%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPPEPR">
+     <th scope="row" cvalue="Personal Products"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=303020">Personal Products</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.22"><span class="positive-value">+0.22%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="377.35">
+
+			$377.35B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="20.27"><span class="positive-value">+20.27%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPDTES">
+     <th scope="row" cvalue="Diversified Telecommunication Services"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=501010">Diversified Telecommunication Services</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.21"><span class="positive-value">+0.21%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="1160.0">
+
+			$1.16T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-3.21"><span class="negative-value">-3.21%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPHOPR">
+     <th scope="row" cvalue="Household Products"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=303010">Household Products</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.19"><span class="positive-value">+0.19%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="351.42">
+
+			$351.42B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-5.57"><span class="negative-value">-5.57%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPDIST">
+     <th scope="row" cvalue="Distributors"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=255010">Distributors</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.18"><span class="positive-value">+0.18%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="34.92">
+
+			$34.92B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-2.10"><span class="negative-value">-2.10%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPTEX">
+     <th scope="row" cvalue="Textiles, Apparel &amp; Luxury Goods"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=252030">Textiles, Apparel &amp; Luxury Goods</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.00"><span class="nochange-value">0.00%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="521.46">
+
+			$521.46B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="44.18"><span class="positive-value">+44.18%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPENT">
+     <th scope="row" cvalue="Entertainment"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=502020">Entertainment</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.03"><span class="negative-value">-0.03%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="765.24">
+
+			$765.24B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPINSE">
+     <th scope="row" cvalue="Insurance"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=403010">Insurance</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.05"><span class="negative-value">-0.05%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="1350.0">
+
+			$1.35T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="0.53"><span class="positive-value">+0.53%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPCSS">
+     <th scope="row" cvalue="Commercial Services &amp; Supplies"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=202010">Commercial Services &amp; Supplies</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.06"><span class="negative-value">-0.06%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="230.29">
+
+			$230.29B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="12.46"><span class="positive-value">+12.46%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPFDGR">
+     <th scope="row" cvalue="Food &amp; Staples Retailing"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=301010">Food &amp; Staples Retailing</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.06"><span class="negative-value">-0.06%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="703.18">
+
+			$703.18B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="15.93"><span class="positive-value">+15.93%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPPS">
+     <th scope="row" cvalue="Professional Services"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=202020">Professional Services</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.06"><span class="negative-value">-0.06%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="220.90">
+
+			$220.90B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="17.40"><span class="positive-value">+17.40%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPTOBA">
+     <th scope="row" cvalue="Tobacco"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=302030">Tobacco</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.06"><span class="negative-value">-0.06%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="385.93">
+
+			$385.93B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-18.41"><span class="negative-value">-18.41%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPELEQ">
+     <th scope="row" cvalue="Electronic Equipment, Instruments &amp; Components"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=452030">Electronic Equipment, Instruments &amp; Components</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.07"><span class="negative-value">-0.07%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="355.41">
+
+			$355.41B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="11.32"><span class="positive-value">+11.32%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPFDPR">
+     <th scope="row" cvalue="Food Products"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=302020">Food Products</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.18"><span class="negative-value">-0.18%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="764.87">
+
+			$764.87B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-3.24"><span class="negative-value">-3.24%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPTRA">
+     <th scope="row" cvalue="Trading Companies &amp; Distributors"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=201070">Trading Companies &amp; Distributors</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.21"><span class="negative-value">-0.21%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="172.52">
+
+			$172.52B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="44.32"><span class="positive-value">+44.32%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPBVGS">
+     <th scope="row" cvalue="Beverages"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=302010">Beverages</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.22"><span class="negative-value">-0.22%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="970.33">
+
+			$970.33B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="3.79"><span class="positive-value">+3.79%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPALI">
+     <th scope="row" cvalue="Airlines"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=203020">Airlines</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.30"><span class="negative-value">-0.30%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="232.38">
+
+			$232.38B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="13.17"><span class="positive-value">+13.17%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPMUUT">
+     <th scope="row" cvalue="Multi-Utilities"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=551030">Multi-Utilities</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.34"><span class="negative-value">-0.34%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="389.04">
+
+			$389.04B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-0.66"><span class="negative-value">-0.66%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPIMS">
+     <th scope="row" cvalue="Interactive Media &amp; Services"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=502030">Interactive Media &amp; Services</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.37"><span class="negative-value">-0.37%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="1590.0">
+
+			$1.59T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPERTI">
+     <th scope="row" cvalue="Equity Real Estate Investment Trusts"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=601010">Equity Real Estate Investment Trusts</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.39"><span class="negative-value">-0.39%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="1110.0">
+
+			$1.11T
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="1.77"><span class="positive-value">+1.77%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPELUT">
+     <th scope="row" cvalue="Electric Utilities"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=551010">Electric Utilities</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.45"><span class="negative-value">-0.45%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="650.09">
+
+			$650.09B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-1.97"><span class="negative-value">-1.97%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPHCT">
+     <th scope="row" cvalue="Health Care Technology"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=351030">Health Care Technology</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.65"><span class="negative-value">-0.65%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="71.88">
+
+			$71.88B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="-9.37"><span class="negative-value">-9.37%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPMDA">
+     <th scope="row" cvalue="Media"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=502010">Media</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.71"><span class="negative-value">-0.71%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="687.38">
+
+			$687.38B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPHRL">
+     <th scope="row" cvalue="Hotels, Restaurants &amp; Leisure"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=253010">Hotels, Restaurants &amp; Leisure</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="-0.74"><span class="negative-value">-0.74%</span></td>
+
+
+
+
+
+
+
+
+
+     <td cvalue="787.30">
+
+			$787.30B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="9.21"><span class="positive-value">+9.21%</span></td>
+
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPGAUT">
+     <th scope="row" cvalue="Gas Utilities"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=551020">Gas Utilities</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+
+     <td cvalue="58.27">
+
+			$58.27B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+ </tr><tr svalue="None">
+     <th scope="row" cvalue="Marine"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=203030">Marine</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+
+     <td cvalue="15.11">
+
+			$15.11B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPMRTI">
+     <th scope="row" cvalue="Mortgage REITs"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=402040">Mortgage REITs</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+
+     <td cvalue="66.78">
+
+			$66.78B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPAFP">
+     <th scope="row" cvalue="Paper &amp; Forest Products"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=151050">Paper &amp; Forest Products</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+
+     <td cvalue="92.41">
+
+			$92.41B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPTMF">
+     <th scope="row" cvalue="Thrifts &amp; Mortgage Finance"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=401020">Thrifts &amp; Mortgage Finance</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+
+     <td cvalue="91.08">
+
+			$91.08B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+ </tr><tr svalue="None">
+     <th scope="row" cvalue="Transportation Infrastructure"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=203050">Transportation Infrastructure</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+
+     <td cvalue="23.97">
+
+			$23.97B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+ </tr><tr svalue="None">
+     <th scope="row" cvalue="Water Utilities"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=551040">Water Utilities</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+
+     <td cvalue="42.14">
+
+			$42.14B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+ </tr><tr svalue=".GSPWTES">
+     <th scope="row" cvalue="Wireless Telecommunication Services"><a href="/eresearch/markets_sectors/sectors/industries.jhtml?tab=learn&amp;industry=501020">Wireless Telecommunication Services</a></th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+
+     <td cvalue="585.68">
+
+			$585.68B
+
+
+	</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="--"><span class="nochange-value">--</span></td>
+
+
+
+
+
+
+
+ </tr></tbody>
+  <tfoot id="tfoot_data">
+
+			<tr style="height: 28px;">
+				<th scope="row" style="font-weight: normal; font-size: 93%;">S&amp;P 500 ® Index</th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td cvalue="0.53" style="font-weight: normal; font-size: 93%;"><span class="positive-value">+0.53%</span></td>
+
+
+
+
+
+
+
+
+
+				<td style="font-weight: normal; font-size: 93%;">
+
+						--
+
+				</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      <td class="last-col" cvalue="16.23" style="font-weight: normal; font-size: 93%;"><span class="positive-value">+16.23%</span></td>
+
+
+
+
+
+
+
+
+			</tr>
+
+  </tfoot>
+ </table>
+ <script type="text/javascript">
+ (function() {
+	$("#tfoot_data td").each(function() {
+		$(this).css("font-weight","normal").css("font-size","93%");
+	});
+	$("#tfoot_data th").each(function() {
+		$(this).css("font-weight","normal").css("font-size","93%");
+	});
+ })();
+ </script></div>
+           <a id="sioverlay_id" href="javascript:void(0);" class="cal-link" modalid="#performance_cap_calculated_overlay">How are performance and market cap calculated?</a>
+
+            </div>
+            <script type="text/javascript">
+            $('#sector_industry_tabs li a').click(function(){
+        		if ($(this).parent('li').attr("class").indexOf('selected') != -1) {
+        			return false;
+        		}
+        		$(this).addClass('nohand');
+        		var	idName = $(this).attr('href');
+        		$('.si-tab-container').hide();
+        		$('#sector_industry_tabs li').removeClass('selected');
+        		$(this).parent('li').addClass('selected');
+        		$(idName).show();
+        		if(idName == "#tabDataIndustry")
+        		{
+        			sectorTabFlag = 0;
+        			$('#tab_sector').removeClass('nohand');
+        			$(this).parents().next('a').children('img').attr('alt','Compare Industry Performance');
+        			$(this).parents().next('a').children('img').attr('title','Compare Industry Performance');
+        			setIndustriesData();
+
+        		}
+        		else
+        		{
+        			sectorTabFlag = 1;
+        			$('#tab_industry').removeClass('nohand');
+        			$(this).parents().next('a').children('img').attr('alt','Compare Sector Performance');
+        			$(this).parents().next('a').children('img').attr('title','Compare Sector Performance');
+        			performanceSectorPage.getPerformanceSectorHtml("","");
+        		}
+
+
+
+        		return false;
+        	});
+
+
+
+
+	    	    	$('#tab_sector').click();
+
+
+
+			(function(){
+				$('#tab_sector').bind('click', function() {
+					//trackContentChangeAsPV('Tab','Snapshot - Sector');
+				});
+				$('#tab_industry').bind('click', function() {
+					//trackContentChangeAsPV('Tab','Snapshot - Industry');
+				});
+			})();
+
+            </script>
+            </section>
+            <section>
+            <div class="news-reports-wrapper extra-spacing">
+
+
+            <div id="sectorNews_div" class="nr-blk nr-left">
+	            <h2>Sector News</h2>
+
+
+
+
+
+
+								<ul>
+
+										<li>
+											<a href="/eresearch/markets_sectors/news/story.jhtml?storyid=201810011107DOWJONESDJONLINE000191&amp;provider=DOWJONES&amp;product=DJONLINE&amp;category=sectorNews&amp;sourcePage=article&amp;gic= ">U.S. Factory-Sector Growth Pulled Back in September -- Update</a>
+											<ul class="info-list">
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?source=ON&amp;topic=all&amp;pubdate=90">DJ Business News</a></li>
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?topic=sectorNews">SECTORS</a></li>
+												<li class="timestamp">
+
+
+
+
+11:07 上午 ET 10/01/2018</li>
+											</ul>
+										</li>
+
+										<li>
+											<a href="/eresearch/markets_sectors/news/story.jhtml?storyid=201810011035DOWJONESDJONLINE000176&amp;provider=DOWJONES&amp;product=DJONLINE&amp;category=sectorNews&amp;sourcePage=article&amp;gic= ">U.S. Factory-Sector Growth Pulled Back in September</a>
+											<ul class="info-list">
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?source=ON&amp;topic=all&amp;pubdate=90">DJ Business News</a></li>
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?topic=sectorNews">SECTORS</a></li>
+												<li class="timestamp">
+
+
+
+
+10:35 上午 ET 10/01/2018</li>
+											</ul>
+										</li>
+
+										<li>
+											<a href="/eresearch/markets_sectors/news/story.jhtml?storyid=201810011033RTRSNEWSCOMBINED_L2N1WE1GT_1&amp;provider=RTRSNEWS&amp;product=COMBINED&amp;category=sectorNews&amp;sourcePage=article&amp;gic= ">U.S. factory activity slows; construction spending edges up</a>
+											<ul class="info-list">
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?source=RA&amp;topic=all&amp;pubdate=90">Reuters</a></li>
+												<li><a href="/eresearch/markets_sectors/news/news.jhtml?topic=sectorNews">SECTORS</a></li>
+												<li class="timestamp">
+
+
+
+
+10:33 上午 ET 10/01/2018</li>
+											</ul>
+										</li>
+
+								</ul>
+								<ul class="more-link">
+
+										<li class="arrow"><a href="/eresearch/gotoBL/markets_sectors/sectors/sectors_in_market.jhtml" target="_top"> Log in for additional news sources.</a></li>
+
+									<li class="remove-spacing">
+										<a href="/eresearch/markets_sectors/news/news.jhtml?topic=sectorNews&amp;pubdate=90&amp;source=all">View more sector news.</a>
+									</li>
+								</ul>
+
+
+
+
+            </div>
+
+           <div id="researchReports_div" class="nr-blk nr-right">
+	            <h2>Research Reports</h2>
+
+
+
+			            <ul>
+
+				            <li>
+
+
+				            			<a href="javascript:void(0);" onclick="window.open('http://research2.fidelity.com/fidelity/research/reports/pdf/getreport.asp?feedid=5029&amp;doctag=secthigh50_20181001&amp;versiontag=7qu312e6vtbh7khhn80j46tlnk');">Telecom Services Sector Highlights (PDF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span><img style="padding-left:6px;" width="8" height="10" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/lock.gif" complete="complete" alt="Log in required." title="Log in required."></span>
+
+
+ </a>
+
+
+
+
+					                <ul class="info-list">
+					                    <li><a href="https://research2.fidelity.com/fidelity/markets_sectors/search.asp#market=MarketsAll&amp;marketChecked=false&amp;sectorChecked=true&amp;sector=SectorEverything&amp;industry=IndustryAll&amp;industryChecked=true&amp;economic=Economic&amp;economicChecked=false&amp;firm=NedDavis&amp;timeframe=365&amp;searchType=Domestic">Ned Davis Research, Inc.</a></li>
+					                    <li class="timestamp">06:00 AM ET 10/01/2018</li>
+					                </ul>
+				            	</li>
+
+				            <li>
+
+
+				            			<a href="javascript:void(0);" onclick="window.open('http://research2.fidelity.com/fidelity/research/reports/pdf/getreport.asp?feedid=576&amp;doctag=20180928t0&amp;versiontag=1gmft8njjvhlmkbs3p4mlrlv0e');">Zacks Industry Outlook (PDF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span><img style="padding-left:6px;" width="8" height="10" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/lock.gif" complete="complete" alt="Log in required." title="Log in required."></span>
+
+
+ </a>
+
+
+
+
+					                <ul class="info-list">
+					                    <li><a href="https://research2.fidelity.com/fidelity/markets_sectors/search.asp#market=MarketsAll&amp;marketChecked=false&amp;sectorChecked=true&amp;sector=SectorEverything&amp;industry=IndustryAll&amp;industryChecked=true&amp;economic=Economic&amp;economicChecked=false&amp;firm=Zacks&amp;timeframe=365&amp;searchType=Domestic">Zacks Investment Research</a></li>
+					                    <li class="timestamp">09:00 AM ET 09/28/2018</li>
+					                </ul>
+				            	</li>
+
+			            </ul>
+			            <ul class="more-link">
+				            <li>
+				                <a href="https://research2.fidelity.com/fidelity/markets_sectors/search.asp#sectorChecked=true&amp;sector=SectorEverything&amp;firm=All Firms&amp;timeframe=365&amp;searchType=Domestic">View more research reports.</a>
+				            </li>
+			            </ul>
+
+
+            </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="economicNews_div" class="news-reports-wrapper  border-none">
+    <h2>U.S. Economic News &amp; Analysis<span>Provided by <img src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/econoday_logo.gif" alt="U.S. Economic News &amp; Analysis" title="U.S. Economic News &amp; Analysis" style="vertical-align: -2px;"></span></h2>
+    <div class="nr-blk nr-left">
+        <ul>
+
+	            <li><a href="javascript:openWinUSEconomicCal('https://fidelity-fcm.econoday.com/byshoweventfull.asp?fid=497149&amp;cust=fidelity');">Market Focus</a><span class="date"><time>10/01/2018</time></span>
+	                <p>Read a quick summary of the day's important economic events.</p></li>
+
+
+	            <li><a href="javascript:openWinUSEconomicCal('https://fidelity-fcm.econoday.com/byshoweventfull.asp?fid=497150&amp;cust=fidelity');">Market Reflections</a><span class="date"><time>09/28/2018</time></span>
+	                <p>Get a sense of what happened in the market today and what it means.</p></li>
+
+
+	            <li class="remove-spacing"><a href="javascript:openWinUSEconomicCal('https://fidelity-fcm.econoday.com/byshoweventarticle.asp?fid=497151&amp;cust=fidelityFIplus');">Simply Economics</a><span class="date"><time>10/01/2018</time></span>
+	                <p>Review last week's market activity and get a preview of the week ahead.</p></li>
+
+        </ul>
+    </div>
+    <div class="nr-blk nr-right">
+        <ul class="bullet-list">
+
+
+
+                    <li><a href="javascript:openWinUSEconomicCal('https://fidelity-fcm.econoday.com/byweek.asp?cust=fidelity');">U.S.
+                            Economic Events Calendar</a><span class="number">(9)</span></li>
+
+
+            <li><a href="javascript:openWinUSEconomicCal('https://fidelityfiplus.econoday.com/byresource.aspx?cust=fidelityFIplus&amp;year=2018&amp;grp=4&amp;rcrid=1119');">Country Profiles</a></li>
+	        <li>Tour sections of the economy in the <a href="javascript:openWinUSEconomicCal('/eresearch/gotoBL/markets_sectors/byresource.jhtml');">Chart Room</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span><img style="padding-left:6px;" width="8" height="10" src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/lock.gif" complete="complete" alt="Log in required." title="Log in required."></span>
+
+
+ </li>
+        </ul>
+
+	        <ul class="arrow-link">
+	            <li><a href="/eresearch/gotoBL/markets_sectors/sectors/sectors_in_market.jhtml" target="_top">Log in for premium content and historical events</a>
+	            </li>
+	        </ul>
+
+    </div>
+</div>
+
+
+
+            </section>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="right-rail">
+
+
+	<aside>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="bricklet-k">
+	<a href="javascript:void(0);" onclick="window.open('https://www.fidelity.com/learning-center/platforms-tools/researching-markets-sectors-industries-video');"><strong>Take a guided tour of Fidelity's sector and industry research.</strong> <img src="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/images/video2.png" alt="Video opens in new window. (52 min: 36 sec)" title="Video opens in new window. (52 min: 36 sec)"></a>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+	</aside>
+
+
+	<aside>
+
+
+
+
+
+
+
+
+
+				<div id="understandingSector_div" class="bricklet-d">
+					<h2>Understanding Sectors</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					 <p><a target="_blank" href="https://www.fidelity.com/webcontent/ap101883-markets_sectors-content/18.09.0/business_cycle/Business_Cycle_Sector_Approach.pdf"><strong>The Business Cycle Approach to Sector Investing (PDF)</strong></a> provides details on how you can potentially take advantage of opportunities that arise due to the relative performance of sectors in each phase. <span>FIDELITY INVESTMENTS</span></p>
+ <p class="twentypx-spcng">Learn more about sector investing in the <a href="https://www.fidelity.com/learning-center/sectors/overview"><strong>Fidelity Learning Center</strong></a>.</p>
+
+
+				</div>
+
+
+
+
+
+
+	</aside>
+
+
+	<aside>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="fidelityInsight_div" class="bricklet-h">
+   <h2>Fidelity Insights</h2>
+
+
+
+		<ul>
+
+	        <li>
+
+
+	            		<a href="javascript:void(0)" onclick="javascript:window.open('http://research2.fidelity.com/fidelity/research/reports/public/getreport.asp?feedid=2271&amp;doctag=q32018quarterlysectorupdate_59_20180719&amp;versiontag=2018071907163409');"><strong>Q3 2018 Quarterly Sector Update (PDF)</strong></a>
+
+
+
+	            <span class="timestamp" style="text-transform:capitalize;"></span>
+	        </li>
+
+	        <li>
+
+
+	            		<a href="javascript:void(0)" onclick="javascript:window.open('http://research2.fidelity.com/fidelity/research/reports/public/getreport.asp?feedid=2271&amp;doctag=q32018quarterlymarketupdate_20_20180711&amp;versiontag=2018071107242350');"><strong>Q3 2018 Quarterly Market Update (PDF)</strong></a>
+
+
+
+	            <span class="timestamp" style="text-transform:capitalize;"></span>
+	        </li>
+
+	   </ul>
+
+
+
+
+               <a href="https://research2.fidelity.com/fidelity/markets_sectors/search.asp#market=MarketsAll&amp;marketChecked=false&amp;sectorChecked=true&amp;sector=SectorEverything&amp;industry=IndustryAll&amp;industryChecked=true&amp;economic=Economic&amp;economicChecked=false&amp;firm=Fidelity Investments&amp;timeframe=365&amp;searchType=Domestic" class="more-link">View more Fidelity Insights.</a>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+	</aside>
+
+</div>
+
+</div>
